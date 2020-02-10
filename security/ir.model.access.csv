@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_formarte_curso,access_formarte_curso,model_formarte_curso,base.group_user,1,1,1,1
+access_formarte_sesion,access_formarte_sesion,model_formarte_sesion,base.group_user,1,1,1,1
